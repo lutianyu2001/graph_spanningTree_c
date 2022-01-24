@@ -15,7 +15,7 @@ The input file to the program specifies:
 
 Here's a sample for the input, along with the actual graph it represents:
 
-
+![sample input](https://raw.githubusercontent.com/lutianyu2001/graph_spanningTree_c/main/sample_input_graph.png)
 
 The program will read the file name from keyboard, read the graph information from the file,
 run the above-mentioned four algorithms, and display the results on the console. It will
@@ -23,4 +23,4 @@ repeatedly ask for an input data file until the user press "CTRL+Z" then "Enter"
 
 Here's a example for the console output using the sample input:
 
-
+![sample output](https://raw.githubusercontent.com/lutianyu2001/graph_spanningTree_c/main/sample_output.png)
